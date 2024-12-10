@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
+- 👯 I'm looking for collborate on **AI related Any Inspring Projects**
+
 - 💬 Ask me about **Artificial Intelligence**
 
 - 📫 How to reach me **janithravisankax@gmail.com**
